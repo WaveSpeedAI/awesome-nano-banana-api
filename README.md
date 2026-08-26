@@ -8,8 +8,12 @@
 </p>
 
 <p align="center">
-  <b>🌊 Powered by <a href="https://wavespeed.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-api">WaveSpeed AI</a> — serverless Nano Banana API, pay-as-you-go, zero cold starts.</b><br>
+  <b>🌊 Powered by <a href="https://wavespeed.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-api">WaveSpeedAI</a> — serverless Nano Banana API, pay-as-you-go, zero cold starts.</b><br>
   <a href="https://wavespeed.ai/nano-banana-2-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-api"><b>→ Get a Nano Banana 2 API key</b></a> &nbsp;·&nbsp; <a href="https://wavespeed.ai/nano-banana-pro-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-api"><b>→ Try Nano Banana Pro</b></a>
+</p>
+
+<p align="center">
+  🖥️ <b>No code?</b> Generate in your browser (no setup, free to start) → <a href="https://wavespeed.ai/image-generator?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-api"><b>WaveSpeedAI Image Generator</b></a>
 </p>
 
 ---
@@ -295,7 +299,7 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 ---
 
 ## Related Model Guides
-Part of the WaveSpeed **Awesome Model** series — one guide per frontier model, all runnable through one API:
+Part of the WaveSpeedAI **Awesome Model** series — one guide per frontier model, all runnable through one API:
 
 - 🎬 [awesome-seedance-api](https://github.com/WaveSpeedAI/awesome-seedance-api) — ByteDance Seedance video
 - 🌊 [awesome-wan-api](https://github.com/WaveSpeedAI/awesome-wan-api) — Alibaba Wan video
@@ -317,4 +321,4 @@ PRs welcome:
 [CC0-1.0](LICENSE) — text & prompts are free to use. Model outputs follow the model provider's and [WaveSpeed](https://wavespeed.ai)'s terms.
 
 ---
-<p align="center"><sub>Maintained by <a href="https://wavespeed.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-api">WaveSpeed AI</a> — the fastest way to run frontier image & video models via one API. <a href="https://wavespeed.ai/nano-banana-2-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-api"><b>Run Nano Banana →</b></a></sub></p>
+<p align="center"><sub>Maintained by <a href="https://wavespeed.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-api">WaveSpeedAI</a> — the fastest way to run frontier image & video models via one API. <a href="https://wavespeed.ai/nano-banana-2-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-api"><b>Run Nano Banana →</b></a></sub></p>
