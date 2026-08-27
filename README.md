@@ -80,218 +80,218 @@ All variants open in-browser with a copy-paste API snippet.
 
 12 prompts curated from the Nano Banana creator community. Credit stays with the original author. Fill in `{...}` placeholders.
 
-### 1. 浮世绘闪卡）
+### 1. Ukiyo-e holographic trading card
 *by [@MANISH1027512](https://x.com/MANISH1027512)*
 
 ```
-核心指令： 一张日式浮世绘风格的收藏级集换式卡牌设计，竖构图。插画风格需要紧密模仿《鬼灭之刃》的视觉美学，特征包括：粗细变化的墨笔轮廓线、传统木版画的配色方案，以及戏剧性的动态构图。
+Core instruction: a collectible trading-card design in Japanese ukiyo-e style, vertical composition. The illustration closely mimics the visual aesthetics of "Demon Slayer": ink-brush outlines with varying stroke weight, a traditional woodblock-print color palette, and dramatic dynamic composition.
 
-主体描述： 卡牌主角是 {角色名字}（称号：{柱名/称号}），处于动态战斗姿势，手持 {武器描述}。 角色正在施展 {呼吸法招式名称}，周围环绕着 {视觉特效描述}（例如：巨大的火焰 / 水龙 / 旋风），这些特效需要以 传统日式水墨画（Sumi-e）风格 呈现。
+Subject: the card features {character name} (title: {Hashira title/epithet}) in a dynamic combat pose, wielding {weapon description}. The character is unleashing {breathing-technique name}, surrounded by {VFX description} (e.g., massive flames / a water dragon / a whirlwind), rendered in traditional Japanese sumi-e ink style.
 
-背景与材质： 背景需融合 纹理化的镭射闪卡（Holographic Foil）效果，在传统水墨元素下方闪烁。
+Background & material: blend in a textured holographic foil effect shimmering beneath the traditional ink elements.
 
-边框： 图片周围要有 日本传统纹样（如青海波或麻叶纹）组成的装饰性边框。底部有一个风格化的横幅，上面用古朴的日式书法写着 “{日文汉字名字}”。
+Border: a decorative frame of traditional Japanese patterns (seigaiha waves or asanoha hemp-leaf). At the bottom, a stylized banner with "{name in Japanese kanji}" in antique Japanese calligraphy.
 ```
 
-### 2. 人物分身术）
+### 2. Thirty clones of one character
 *by [@tapehead_Lab](https://x.com/tapehead_Lab)*
 
 ```
-根据上传的参考角色，在一间宽敞的东京女孩公寓内拍摄一个真人场景——一间明亮、充满生活气息的单间，空间比例接近1LDK。房间应包含白色墙壁、温暖的木地板、米色窗帘、一张铺着柔软床品的矮床、一张摆放着化妆品的书桌、书架、绿植、一面立镜、一块地毯、散落的个人物品，以及位于房间后方的紧凑型厨房区域。房间必须具有强烈的景深，前景、中景和深邃的背景层次分明。
+Based on the uploaded reference character, shoot a live-action scene inside a spacious Tokyo-girl apartment — a bright, lived-in studio close to 1LDK proportions. The room includes white walls, warm wood flooring, beige curtains, a low bed with soft bedding, a desk with cosmetics, bookshelves, plants, a full-length mirror, a rug, scattered personal items, and a compact kitchen area at the back. The room must have strong depth of field, with distinct foreground, midground, and deep background layers.
 
-在房间内放置大约三十个与参考角色相同的角色（面部、发型、服装均与参考角色相同），每个角色都处于不同的动作或互动状态。调整角色之间的距离、比例、高度和可见度，使房间的密度看起来自然。
+Place about thirty copies of the reference character in the room (same face, hair, and outfit as the reference), each in a different action or interaction. Vary spacing, scale, height, and visibility so the room's density feels natural.
 
-前景（非常靠近镜头/部分遮挡）：
+Foreground (very close to camera / partially occluded):
+- someone walking past the lens, slightly out of focus
+- a hand or shoulder entering the frame
+- one person leaning toward the camera
+- one person half-hidden behind a large plant
+- one person sitting up front, tying her hair
+- one person kneeling by the desk sorting items
 
-- 人物走过镜头，略微失焦
+Midground (main room area):
+- stretching by the bed
+- sitting on the bed checking a phone
+- lying face-down on the bed
+- reaching under the bed
+- arranging cosmetics on the desk
+- browsing books on the shelf
+- standing at the mirror
+- crouching on the rug
+- leaning against the wall
+- gazing out the window
+- adjusting the curtains
+- carrying laundry
+- drinking from a cup
+- fluffing pillows
+- sitting on the floor snacking
+- doing a small jump or motion-blur action
+- moving a small chair
 
-- 一只手或肩膀进入画面
+Background (deep field / near kitchen and hallway):
+- standing at the stove drinking water
+- opening a cabinet
+- sitting on a stool
+- leaning in the doorway
+- walking toward the hallway
+- silhouette partially blocked by the fridge
+- reaching for a high shelf
+- standing far off in the entryway
+- faintly visible through the hallway frame
+- sitting on the floor near the kitchen mat
 
-- 一人靠近镜头
+Ensure strong layered occlusion: foreground figures partially block midground figures; background figures appear smaller with natural perspective falloff. Scatter the thirty figures naturally — no symmetry or grid alignment. Light everyone with soft natural daylight so they blend seamlessly with the environment.
 
-- 一人半个身子在一株大植物后面
-
-- 一人坐在正前方，正在扎头发
-
-- 一人跪在桌旁整理物品
-
-中景（主要房间区域）：
-
-- 一人在床边伸展
-
-- 一人坐在床上查看手机
-
-- 一人趴在床上
-
-- 一人伸手到床底下
-
-- 一人在桌子上整理化妆品
-
-- 一人在书架上翻书
-
-- 一人站在镜子前
-
-- 一人蹲在地毯上
-
-- 一人靠墙
-
-- 一人望向窗外
-
-- 一人在调整窗帘
-
-- 一人提着衣物
-
-- 一人用杯子喝水
-
-- 一人在整理枕头
-
-- 一人坐在地板上吃零食
-
-- 一人做小跳跃或动态模糊动作
-
-- 一人移动小椅子
-
-背景（深景/靠近厨房和……）走廊）：
-
-- 一人站在炉灶旁喝水
-
-- 一人打开橱柜
-
-- 一人坐在凳子上
-
-- 一人倚靠在门口
-
-- 一人走向走廊
-
-- 一人轮廓部分被冰箱遮挡
-
-- 一人伸手够高处的架子
-
-- 一人站在入口区域远处
-
-- 一人透过走廊的框架隐约可见
-
-- 一人坐在厨房地毯附近的地板上
-
-确保强烈的层次感遮挡：前景人物部分遮挡中景人物，背景人物则显得更小，并呈现自然的透视衰减。将三十个人物自然地分散放置，避免对称或网格对齐。所有人物均采用柔和的自然日光照明，以确保画面与环境完美融合。
-
-将人物置于与插画姿势和构图相匹配的实景背景中，同时忠实地保留插画的纹理和风格。运用逼真的光照、景深和微妙的拍摄效果，使插画与真实环境无缝衔接。
+Place the characters in a real setting matching the illustration's pose and composition while faithfully preserving the illustration's texture and style. Use realistic lighting, depth of field, and subtle photographic effects to fuse illustration and reality.
 ```
 
-### 3. 根据文档生成流程图）
+### 3. Flowchart from a paper
 *by [@anderssandberg](https://x.com/anderssandberg)*
 
 ```
-图示为根据论文 Armstrong, S., & Sandberg, A. (2013). Eternity in six hours: Intergalactic spreading of intelligent life and sharpening the Fermi paradox. Acta Astronautica, 89, 1-13 构建戴森群的过程。
+A diagram of the process for building a Dyson swarm, based on the paper: Armstrong, S., & Sandberg, A. (2013). Eternity in six hours: Intergalactic spreading of intelligent life and sharpening the Fermi paradox. Acta Astronautica, 89, 1-13.
 ```
 
-### 4. 根据文章制作PPT）
+### 4. Slide deck from an article
 *by [@op7418](https://x.com/op7418)*
 
 ```
-帮我根据下面这个文章做一套中学生都能理解的中文PPT。
+Turn the article below into a slide deck a middle-schooler could understand.
 
-先写1个PPT大纲，规划出每一页的PPT的内容。
+First write a deck outline planning the content of every slide.
 
-然后将每一页的PPT内容分别扔给Nana Banana pro生成对应页面的PPT，需要确保风格一致。
+Then feed each slide's content to Nano Banana Pro to generate that page, keeping the style consistent.
 
-PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人文主义”设计。
+The deck style should be "Anthropic/Claude-style" "warm academic humanism":
 
-背景：使用暖米色/奶油色 (# F3F0E9) 作为底色，模仿高级纸张质感。
+Background: warm beige/cream (#F3F0E9) as the base, mimicking premium paper.
 
-字体：标题使用优雅的衬线体（Serif），正文使用现代无衬线体（Sans-serif）。
+Fonts: elegant serif for titles, modern sans-serif for body text.
 
-配色：主色调为赤陶红 (# D67052) 和芥末黄 (# F0B857)，搭配深海军蓝作为点缀。避免使用霓虹色或纯黑色。
+Palette: terracotta (#D67052) and mustard (#F0B857) as primaries, deep navy as accent. No neon colors or pure black.
 
-视觉元素：使用注重排版的网格布局，插图风格应为抽象的、有机的黑色手绘线条画，置于赤陶红纯色色块之上，部分关键信息使用卡片布局。
+Visual elements: typography-first grid layouts; illustrations as abstract, organic black hand-drawn linework over solid terracotta blocks; key information in card layouts.
 
-图表：扁平化、极简的柱状图，强调数据对比，去除多余边框。
+Charts: flat, minimal bar charts emphasizing comparison, no extra borders.
 
-文字和图像都由 Nano Banana Pro 生成，另外不要将PPT 变成一整张图，一页一张图。
+Both text and imagery are generated by Nano Banana Pro. Do not merge the deck into one big image — one image per slide.
 
-文章内容为：[]
+Article content: []
 ```
 
-### 5. 人物拆解）
+### 5. Fashion character breakdown sheet
 *by [@cheerselflin](https://x.com/cheerselflin)*
 
 ```
-手绘风格的时尚概念分解图。
+A hand-drawn fashion concept exploded diagram.
 
-中心：一位时尚自信、略带性感（但并不露骨）的女性角色的全身像，姿态自然而充满活力。
+Center: a full-body figure of a stylish, confident, subtly alluring (never explicit) female character in a natural, energetic pose.
 
-周围：她的关键元素结构化布局：
+Around her, a structured layout of her key elements:
 
-• 服装层次——展示外套、内衣、紧身裤（蕾丝、薄纱材质）、塑身衣，并放大细节图案。
+• Clothing layers — outerwear, innerwear, tights (lace, tulle), shapewear, with enlarged detail patterns.
 
-• 表情图——3-4种面部表情（中性、害羞、惊讶、专注）。
+• Expression sheet — 3-4 facial expressions (neutral, shy, surprised, focused).
 
-• 特写镜头——面料褶皱纹理、肌肤细节、手势。
+• Close-ups — fabric fold textures, skin detail, hand gestures.
 
-• 生活方式及配饰——打开的手提包，内含日常用品：口红、香水、粉饼盒、护手霜、日记本、保健品。
+• Lifestyle & accessories — an open handbag spilling everyday items: lipstick, perfume, compact, hand cream, a journal, supplements.
 
-• 材质标注——每件物品旁的手写风格注释（例如，“柔软蕾丝”、“哑光皮革”、“色号#520”）。
+• Material callouts — handwritten-style notes beside each item (e.g., "soft lace", "matte leather", "shade #520").
 
-背景：柔和的米色或羊皮纸纹理，营造设计草图的氛围。
+Background: soft beige or parchment texture for a design-sketch atmosphere.
 
-光线：干净柔和的阴影，使画面浑然一体。
+Lighting: clean soft shadows unifying the frame.
 
-输出：4K 高清 2D 插画，兼具性感与时尚感。
+Output: 4K HD 2D illustration, both alluring and fashionable.
 
-语言：中英文标签。
+Language: bilingual labels.
 ```
 
-### 6. 儿童识字小报）
+### 6. Kids' vocabulary poster
 *by [@lxfater](https://x.com/lxfater)*
 
 ```
-请生成一张儿童识字小报《游乐园》，竖版 A4，学习小报版式，适合 5–9 岁孩子 认字与看图识物。 一、小报标题区（顶部） 顶部居中大标题：《游乐园识字小报》 风格：十字小报 / 儿童学习报感 文本要求：大字、醒目、卡通手写体、彩色描边 装饰：周围添加与 游乐园 相关的贴纸风装饰，颜色鲜艳 二、小报主体（中间主画面） 画面中心是一幅 卡通插画风的「游乐园」场景： 整体气氛：明亮、温暖、积极 构图：物体边界清晰，方便对应文字，不要过于拥挤。 场景分区与核心内容 核心区域 A（主要对象）：表现 游乐园 的核心活动（孩子们在玩游乐设施）。 核心区域 B（配套设施）：展示相关的工具或物品（售票、零食、指示设施）。 核心区域 C（环境背景）：体现环境特征（入口、路牌、彩旗、绿地等）。 主题人物 角色：1 位可爱卡通人物（身份：游乐园工作人员/游客小朋友皆可）。 动作：正在进行与场景相关的自然互动（如微笑指路、挥手欢迎、陪孩子玩）。 三、必画物体与识字清单（Generated Content） 请务必在画面中清晰绘制以下物体，并为其预留贴标签的位置： 1. 核心角色与设施： gōng zuò rén yuán 工作人员 shòu piào chù 售票处 guò shān chē 过山车 mó tiān lún 摩天轮 xuán zhuǎn mǎ 旋转木马 2. 常见物品/工具： piào 票 qì qiú 气球 bīng jī líng 冰淇淋 bào mǐ huā 爆米花 táng hú lu 糖葫芦 miàn jù 面具 wán jù 玩具 xiǎo qí zi 小旗子 3. 环境与装饰： rù kǒu 入口 chū kǒu 出口 zhǐ shì pái 指示牌 cǎi qí 彩旗 guǎng chǎng 广场 (注意：画面中的物体数量不限于此，但以上列表必须作为重点描绘对象；总计 18 个典型名词，适合 5–9 岁儿童识字。) 四、识字标注规则 对上述清单中的物体，贴上中文识字标签： 格式：两行制（第一行拼音带声调，第二行简体汉字）。 样式：彩色小贴纸风格，白底黑字或深色字，清晰可读。 排版：标签靠近对应的物体，不遮挡主体。 五、画风参数 风格：儿童绘本风 + 识字小报风 色彩：高饱和、明快、温暖 (High Saturation, Warm Tone) 质量：8k resolution, high detail, vector illustration style, clean lines.
+Generate a children's vocabulary learning poster, "The Amusement Park" — vertical A4, school-newsletter layout, for kids aged 5-9 learning words through pictures.
+
+1. Title area (top): large centered title "Amusement Park Word Poster". Style: kids' classroom-newsletter feel. Big, bold, cartoon handwritten type with colorful outlines. Decorate with bright sticker-style amusement-park elements.
+
+2. Main scene (center): a cartoon illustration of an amusement park. Mood: bright, warm, positive. Composition: objects have clear boundaries for easy labeling — not crowded. Zone A (main subjects): the park's core activities (kids on rides). Zone B (supporting facilities): related items (ticketing, snacks, signage). Zone C (environment): entrance, signposts, bunting, lawns. One cute cartoon guide character (park staff or a young visitor) doing a natural interaction — smiling, pointing the way, waving, playing with kids.
+
+3. Required objects & word list — draw each clearly and leave room for its label:
+1) Core roles & rides: staff member, ticket booth, roller coaster, Ferris wheel, carousel
+2) Common items: ticket, balloon, ice cream, popcorn, candied fruit skewer, mask, toy, little flag
+3) Environment: entrance, exit, signpost, bunting, plaza
+(More objects are fine, but the list above must be the focus — 18 typical nouns suitable for ages 5-9.)
+
+4. Labeling rules: each listed object gets a word label. Format: two lines (pronunciation on top, the word below). Style: colorful sticker look, dark text on white, clearly readable. Placement: next to its object, never covering it.
+
+5. Art style: children's picture-book + learning-poster style. Colors: high saturation, bright, warm tone. Quality: 8k resolution, high detail, vector illustration style, clean lines.
 ```
 
-### 7. 为城市图片添加巨大生物）
+### 7. Giant creature over a real city photo
 *by [@AI_GIRL_DESIGN](https://x.com/AI_GIRL_DESIGN)*
 
 ```
-使用上传的城市照片作为底图。请勿更改照片中的真实建筑、街道、车辆或人物。保持照片的真实性。在建筑物上方和后方的天空中添加一个非常巨大、风格化的插画生物，仿佛它俯瞰着整座城市。该生物应采用扁平化的图形风格绘制，轮廓清晰，并使用有限的霓虹色（例如柔和的霓虹绿、霓虹黄和柠檬绿），类似于壁画或海报插图。生物设计： - 奇幻的异想世界，而非恐怖或暴力 - 由层叠的形状、鳞片、毛发或花卉图案构成 - 长长的手臂或头发垂挂在建筑物旁 - 巨大的角或其他奇特的特征在天空的映衬下清晰可见 与照片的融合： - 将生物放置在建筑物边缘后方，使其部分身体出现在建筑物边缘之后，注意透视关系 - 使用正确的重叠方式：建筑物边缘在前，生物在后，使其融入场景之中 - 如有需要，可在附近的建筑物表面添加非常柔和的阴影或色彩反射，但要保持微妙 - 保持天空的原始亮度，使插图清晰突出 可选： - 在街道上添加一些小型、简单的插图人物（扁平、极简风格），例如遛狗或过马路，但不要遮挡真人。 整体氛围：梦幻般的超现实城市景象，一只巨大的、友好的插图生物出现在逼真的建筑物上方，将真实照片与简洁现代的插图相结合。
+Use the uploaded city photo as the base. Do not alter the real buildings, streets, vehicles, or people — keep the photo authentic. Add one enormous, stylized illustrated creature in the sky above and behind the buildings, as if it overlooks the whole city. Draw the creature in a flat graphic style with clean outlines and a limited neon palette (soft neon green, neon yellow, lime), like a mural or poster illustration.
+
+Creature design:
+- whimsical fantasy, never horror or violence
+- built from layered shapes, scales, fur, or floral patterns
+- long arms or hair draping beside the buildings
+- huge horns or other fantastic features silhouetted against the sky
+
+Blending with the photo:
+- place the creature partially behind building edges with correct perspective
+- correct overlap: building edges in front, creature behind, so it sits inside the scene
+- if needed, add very soft shadows or color reflections on nearby building faces — keep it subtle
+- keep the sky's original brightness so the illustration reads clearly
+
+Optional:
+- add a few small, simple illustrated figures on the street (flat, minimal style) — walking a dog, crossing the road — without covering real people.
+
+Overall mood: a dreamlike, surreal cityscape where one giant, friendly illustrated creature rises above realistic buildings — real photography meets clean modern illustration.
 ```
 
-### 8. 玩具分解展示）
+### 8. Half-cutaway toy teardown
 *by [@ZeroZ_JQ](https://x.com/ZeroZ_JQ)*
 
 ```
-桌子上只有一个[阿童木]的玩具，玩具被对半分为左右两部分展示，玩具左半边是正常的玩具形象，右半边是透明的外壳，可以清晰的看到里面的内部构造，并有白色的线指出每一个部分是做什么的，在桌面上，明亮的背景，虚化的桌子。左边展示这个一半透明一半实体的玩具，画面的右边展示各类线条指出的参数指
+A single [Astro Boy] toy on a table, split into left and right halves for display: the left half is the normal toy; the right half is a transparent shell revealing the internal structure clearly, with white callout lines explaining what each part does. On a tabletop, bright background, blurred table. The left side shows the half-transparent, half-solid toy; the right side of the frame shows the parameters pointed out by the callout lines.
 ```
 
-### 9. 蓬松毛绒玩具）
+### 9. Fluffy plush logo
 *by [@toolfolio](https://x.com/toolfolio)*
 
 ```
-将一个简单的扁平矢量标志转换成一个柔软蓬松的3D立体物体。使用原有颜色。该物体完全被毛发覆盖，拥有超逼真的毛发纹理和柔和的阴影。它位于干净的浅灰色背景中央，轻柔地漂浮在空中。风格超现实、触感丰富且现代，营造出舒适和趣味盎然的感觉。采用摄影棚灯光和高分辨率渲染。
+Transform a simple flat vector logo into a soft, fluffy 3D object. Keep the original colors. The object is entirely covered in fur, with hyper-realistic hair texture and soft shadows. It floats gently in the center of a clean light-gray background. The style is surreal, tactile, and modern, evoking comfort and playfulness. Studio lighting, high-resolution render.
 ```
 
-### 10. 水晶质感emoji）
+### 10. Crystal-glass emoji objects
 *by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO)*
 
 ```
-一幅照片级真实、细节高度丰富的图像，主体是 [一台 3D 拍立得相机]，以清澈、抛光度极高的透明玻璃或水晶材质渲染而成。[机身具有明显的厚度与立体深度，经典拍立得相机的标志性造型——方正机身、前置镜头、顶部取景器、正面拍照按钮以及底部吐片槽——全部以简化却极为精确的几何结构呈现，使其无需任何图案就能一眼辨认]。所有边缘采用圆润倒角与光滑曲面处理，在光线下产生优雅的折射效果。相机略微倾斜摆放，仿佛漂浮在洁净无暇、无缝衔接的淡米白或极浅灰色棚拍背景上方。
+A photorealistic, highly detailed image of [a 3D instant camera] rendered in crystal-clear, highly polished transparent glass. [The body has real thickness and depth; the classic instant-camera signature forms — boxy body, front lens, top viewfinder, front shutter button, and bottom film slot — are all rendered in simplified yet precise geometry, instantly recognizable without any graphics]. All edges have rounded bevels and smooth curves that refract light elegantly. The camera sits slightly tilted, as if floating above a spotless, seamless pale-cream or very light gray studio background.
 
-照明为明亮、干净的专业棚拍光，重点突出玻璃材质的透明性、镜面反射与折射特性。机身倒角、吐片槽边缘与镜头圆环处呈现锐利而细腻的高光，凸显晶莹质感与奢华视觉。光线穿透玻璃机身内部时产生微妙的折射、光线弯曲与局部失真效果，在镜头厚度变化区、吐片槽内部与顶部取景器附近尤为明显，极大增强了逼真感与视觉冲击力。相机下方与稍偏后方落下一片柔和、漫散的阴影，使画面具有落地感却不破坏极简气质。
+Bright, clean professional studio lighting emphasizes the glass's transparency, mirror reflections, and refraction. Sharp, delicate highlights on the bevels, film-slot edges, and lens ring convey a crystalline, luxurious look. Light passing through the glass body bends and distorts subtly — most visibly where the lens thickness changes, inside the film slot, and around the viewfinder — greatly boosting realism. A soft, diffuse shadow falls below and slightly behind the camera, grounding it without breaking the minimalist mood.
 
-整体美学风格极简、现代、干净，呈现高端产品摄影与概念艺术渲染的视觉效果。画面焦点完全聚焦于玻璃拍立得相机晶莹剔透的材质表现与经典几何造型。影像整体为高调光感与浅景深处理，使拍立得相机保持绝对清晰的焦点，而背景柔和虚化，从而最大程度突出主体。
+Overall aesthetic: minimal, modern, clean — high-end product photography meets concept-art rendering. The frame focuses entirely on the glass camera's crystalline material and classic geometry. High-key lighting and shallow depth of field keep the camera tack-sharp while the background melts away.
 ```
 
-### 11. 蓬松充气玩具）
+### 11. Inflatable puffy logo
 *by [@gizakdag](https://x.com/gizakdag)*
 
 ```
-将附件中的标志制作成一个高分辨率的3D渲染图，形状应为充气蓬松的物体。形状应呈现柔软饱满的效果，如同毛绒气球或充气玩具。使用光滑的哑光纹理，并添加细微的织物褶皱和缝线，以突出充气效果。物体应略带弹性，并辅以柔和的阴影和光线，以增强体积感和真实感。将其放置在简洁的背景（浅灰色）上。
+Turn the attached logo into a high-resolution 3D render shaped like an inflated, puffy object. It should look soft and plump, like a plush balloon or inflatable toy. Use a smooth matte texture with subtle fabric wrinkles and stitching to emphasize the inflated look. Slightly elastic feel, with soft shadows and lighting enhancing volume and realism. Place it on a clean light-gray background.
 ```
 
-### 12. 根据面部估算年龄）
+### 12. Face-scan age estimate infographic
 *by [@Samann_ai](https://x.com/Samann_ai)*
 
 ```
-根据（您的照片）制作一张超逼真、高分辨率的肖像信息图。保持（您的照片）中人物的身份、发型、服装和自然肤色不变，并使用中性摄影棚背景。在整张脸上叠加一个微妙的半透明面部分析网格，类似于3D面部扫描网格：纤细柔和的白色线条沿着面部轮廓延伸，略带光泽但不遮盖皮肤细节。在脸部一侧添加一条清晰的垂直红色激光线，如同未来主义的扫描效果。所有分析线都必须柔和、简洁、优雅，如同美容科技广告一般。制作一张简洁的医学美容信息图，使用全局数据百分比评估5个衰老因素：1. 细纹和皱纹；2. 皮肤纹理和弹性；3. 面部容量和下垂；4. 眼周衰老迹象；5.肤色和色素沉着：针对每个因素，放置一个带有细线指向相应面部区域的小标签，并在旁边写上简短的标题和一个0-100%的实际百分比分数（基于全球数据），例如：“细纹和皱纹 - 18%”“皮肤纹理和弹性 - 72%”“面部容量和下垂 - 35%”“眼周衰老迹象 - 41%”“肤色和色素沉着 - 63%”。使用简洁、现代的无衬线字体和小号技术风格文本，类似于科学的面部分析用户界面。在图像底部中央，用粗体大字显示基于分析的最终估计真实年龄，例如：“估计年龄：（基于面部分析的随机数字）”。整体风格：未来主义的AI引导护肤分析，极简主义，高级编辑灯光，不提及性别，适用于任何面部。
+From (your photo), create a hyper-realistic, high-resolution portrait infographic. Keep the person's identity, hairstyle, clothing, and natural skin tone from (your photo) unchanged, on a neutral studio background. Overlay a subtle, semi-transparent facial-analysis mesh across the face, like a 3D face-scan grid: thin, soft white lines following the facial contours, slightly luminous but never hiding skin detail. Add one crisp vertical red laser line across one side of the face, like a futuristic scanning effect. All analysis lines must be soft, clean, and elegant, like a beauty-tech ad.
+
+Make a clean medical-aesthetics infographic scoring 5 aging factors with global-data percentages: 1. fine lines & wrinkles; 2. skin texture & elasticity; 3. facial volume & sagging; 4. periocular aging signs; 5. skin tone & pigmentation. For each factor, place a small label with a thin leader line to the corresponding facial area, a short title, and a realistic 0-100% score (based on global data), e.g. "Fine lines & wrinkles — 18%", "Skin texture & elasticity — 72%", "Facial volume & sagging — 35%", "Periocular aging signs — 41%", "Skin tone & pigmentation — 63%". Use a clean, modern sans-serif with small technical-style text, like a scientific facial-analysis UI. At the bottom center, in large bold type, show the final estimated age from the analysis, e.g.: "Estimated age: (a realistic number based on the facial analysis)". Overall style: futuristic AI-guided skincare analysis, minimalist, premium editorial lighting, gender-neutral, works for any face.
 ```
 
 *Add yours via a PR — keep the original author's credit. See [Contributing](#contributing).*
