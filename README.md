@@ -60,6 +60,8 @@ curl -s "https://api.wavespeed.ai/api/v3/predictions/<prediction_id>/result" \
 
 **[→ Get your Nano Banana 2 API key](https://wavespeed.ai/nano-banana-2-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-api)** · pay-as-you-go, live pricing on each model page.
 
+**Python wrapper:** [nano-banana-2.1-api](https://github.com/WaveSpeedAI/nano-banana-2.1-api) — one typed function per Nano Banana 2.1 endpoint, built on the official SDK.
+
 ---
 
 ## Model Variants
