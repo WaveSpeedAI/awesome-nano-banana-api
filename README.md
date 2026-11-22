@@ -1,15 +1,15 @@
 # Awesome Nano Banana API 🍌 — Prompts, Variants & One-Call Image Generation
 
-> The most complete open guide to **Google Nano Banana — the viral AI image model (Nano Banana 2 & Pro, text-to-image + edit)** — a community prompt library and a single API to run every variant.
+> The most complete open guide to **Google Nano Banana — the viral AI image model (Nano Banana 2.1 · 2 · Pro, text-to-image + edit)** — a community prompt library and a single API to run every variant.
 
 <p align="center">
-  <a href="https://wavespeed.ai/nano-banana-2-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-api"><img src="https://img.shields.io/badge/▶_Run_Nano_Banana_2-Get_API_Key-00E5FF?style=for-the-badge&labelColor=0B0B0F" alt="Run Nano Banana 2"></a>
+  <a href="https://wavespeed.ai/nano-banana-2-1-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-api"><img src="https://img.shields.io/badge/▶_Run_Nano_Banana_2.1-Get_API_Key-00E5FF?style=for-the-badge&labelColor=0B0B0F" alt="Run Nano Banana 2.1"></a>
   <a href="https://wavespeed.ai/nano-banana-pro-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-api"><img src="https://img.shields.io/badge/Nano_Banana_Pro-Try_Now-7C3AED?style=for-the-badge&labelColor=0B0B0F" alt="Nano Banana Pro"></a>
 </p>
 
 <p align="center">
   <b>🌊 Powered by <a href="https://wavespeed.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-api">WaveSpeedAI</a> — serverless Nano Banana API, pay-as-you-go, zero cold starts.</b><br>
-  <a href="https://wavespeed.ai/nano-banana-2-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-api"><b>→ Get a Nano Banana 2 API key</b></a> &nbsp;·&nbsp; <a href="https://wavespeed.ai/nano-banana-pro-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-api"><b>→ Try Nano Banana Pro</b></a>
+  <a href="https://wavespeed.ai/nano-banana-2-1-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-api"><b>→ Get a Nano Banana 2.1 API key</b></a> &nbsp;·&nbsp; <a href="https://wavespeed.ai/nano-banana-pro-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-api"><b>→ Try Nano Banana Pro</b></a>
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 > **Generate right now**
 > ```bash
 > npm i -g @wavespeed/cli && wavespeed login
-> wavespeed run google/nano-banana-2/text-to-image -p "your prompt"
+> wavespeed run google/nano-banana-2.1/text-to-image -p "your prompt"
 > ```
 > No GPU, no cold start — the same endpoint powers every prompt below.
 
@@ -39,7 +39,7 @@
 
 ## What is Nano Banana?
 
-**Nano Banana** (Google) is the viral AI image model behind the internet's favorite character-consistent edits and figurine renders. WaveSpeed serves **Nano Banana 2** (+ lite / fast) and **Nano Banana Pro** (+ ultra / multi) — text-to-image and edit.
+**Nano Banana** (Google) is the viral AI image model behind the internet's favorite character-consistent edits and figurine renders. WaveSpeedAI serves **Nano Banana 2.1**, Nano Banana 2 (+ lite / fast) and **Nano Banana Pro** (+ ultra / multi) — text-to-image and edit.
 
 ---
 
@@ -48,9 +48,9 @@
 One endpoint, submit + poll. Swap the model path for any variant below.
 
 ```bash
-curl -s -X POST "https://api.wavespeed.ai/api/v3/google/nano-banana-2/text-to-image" \
+curl -s -X POST "https://api.wavespeed.ai/api/v3/google/nano-banana-2.1/text-to-image" \
   -H "Authorization: Bearer $WAVESPEED_API_KEY" -H "Content-Type: application/json" \
-  -d '{"prompt": "A collectible figurine of a corgi astronaut on a clear acrylic base, studio light"}'
+  -d '{"prompt": "A collectible figurine of a corgi astronaut on a clear acrylic base, studio light", "aspect_ratio": "16:9"}'
 # → {"data": {"id": "<prediction_id>"}}
 
 curl -s "https://api.wavespeed.ai/api/v3/predictions/<prediction_id>/result" \
@@ -58,7 +58,7 @@ curl -s "https://api.wavespeed.ai/api/v3/predictions/<prediction_id>/result" \
 # → status: completed → outputs: ["<url>"]
 ```
 
-**[→ Get your Nano Banana 2 API key](https://wavespeed.ai/nano-banana-2-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-api)** · pay-as-you-go, live pricing on each model page.
+**[→ Get your Nano Banana 2.1 API key](https://wavespeed.ai/nano-banana-2-1-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-api)** · pay-as-you-go, live pricing on each model page.
 
 **Python wrapper:** [nano-banana-2.1-api](https://github.com/WaveSpeedAI/nano-banana-2.1-api) — one typed function per Nano Banana 2.1 endpoint, built on the official SDK.
 
@@ -68,13 +68,16 @@ curl -s "https://api.wavespeed.ai/api/v3/predictions/<prediction_id>/result" \
 
 All variants open in-browser with a copy-paste API snippet.
 
-### Nano Banana 2 &nbsp;[▶ API](https://wavespeed.ai/nano-banana-2-api)
-[text-to-image](https://wavespeed.ai/models/google/nano-banana-2/text-to-image) · [edit](https://wavespeed.ai/models/google/nano-banana-2/edit) · [fast](https://wavespeed.ai/models/google/nano-banana-2/text-to-image-fast) · [lite](https://wavespeed.ai/models/google/nano-banana-2-lite/text-to-image)
+### Nano Banana 2.1 — flagship &nbsp;[▶ API](https://wavespeed.ai/nano-banana-2-1-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-api)
+[text-to-image](https://wavespeed.ai/models/google/nano-banana-2.1/text-to-image?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-api) · [edit](https://wavespeed.ai/models/google/nano-banana-2.1/edit?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-api)
 
-### Nano Banana Pro &nbsp;[▶ API](https://wavespeed.ai/nano-banana-pro-api)
-[text-to-image](https://wavespeed.ai/models/google/nano-banana-pro/text-to-image) · [edit](https://wavespeed.ai/models/google/nano-banana-pro/edit) · [ultra](https://wavespeed.ai/models/google/nano-banana-pro/text-to-image-ultra) · [edit-multi](https://wavespeed.ai/models/google/nano-banana-pro/edit-multi)
+### Nano Banana 2 &nbsp;[▶ API](https://wavespeed.ai/nano-banana-2-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-api)
+[text-to-image](https://wavespeed.ai/models/google/nano-banana-2/text-to-image?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-api) · [edit](https://wavespeed.ai/models/google/nano-banana-2/edit?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-api) · [fast](https://wavespeed.ai/models/google/nano-banana-2/text-to-image-fast?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-api) · [lite](https://wavespeed.ai/models/google/nano-banana-2-lite/text-to-image?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-api)
 
-> Full catalog: **[wavespeed.ai/nano-banana-2-api](https://wavespeed.ai/nano-banana-2-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-api)**
+### Nano Banana Pro &nbsp;[▶ API](https://wavespeed.ai/nano-banana-pro-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-api)
+[text-to-image](https://wavespeed.ai/models/google/nano-banana-pro/text-to-image?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-api) · [edit](https://wavespeed.ai/models/google/nano-banana-pro/edit?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-api) · [ultra](https://wavespeed.ai/models/google/nano-banana-pro/text-to-image-ultra?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-api) · [edit-multi](https://wavespeed.ai/models/google/nano-banana-pro/edit-multi?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-api)
+
+> Full catalog: **[wavespeed.ai/nano-banana-2-1-api](https://wavespeed.ai/nano-banana-2-1-api?utm_source=github&utm_medium=readme&utm_campaign=awesome-nano-banana-api)**
 
 ---
 
